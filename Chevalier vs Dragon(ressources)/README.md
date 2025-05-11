@@ -137,7 +137,3 @@ Barème
 
 Rendu
 ----
-
-Pour le rendu il me faudra un lien vers un repo Github sur lequel vous avez déposé l'exercice car les fichiers Javascript sont régulièrement bloqués par mesure de sécurité dans les mails.
-Le rendu sera à m'envoyer par mail à l'adresse:  
-theau.debureau.rendus@gmail.com
